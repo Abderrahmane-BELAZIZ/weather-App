@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/weather-App/static/css/main.24ac55fb.css",
+    "main.js": "/weather-App/static/js/main.587ad13b.js",
+    "static/js/453.7179fb5b.chunk.js": "/weather-App/static/js/453.7179fb5b.chunk.js",
+    "static/media/wallpaper.jpg": "/weather-App/static/media/wallpaper.bb73d86019c61afce79d.jpg",
+    "static/media/snowflake.png": "/weather-App/static/media/snowflake.de0a3c96a4fe80e2d39d.png",
+    "static/media/full-moon.png": "/weather-App/static/media/full-moon.0b2afe541c822ed527e5.png",
+    "static/media/FewCloudsNIght.png": "/weather-App/static/media/FewCloudsNIght.8e97cd97b1e765a0e83e.png",
+    "static/media/FewClouds.png": "/weather-App/static/media/FewClouds.16f3a1037ec59f8c0256.png",
+    "static/media/cloud-moon.png": "/weather-App/static/media/cloud-moon.b395296df2e4c6c1c265.png",
+    "static/media/clock.png": "/weather-App/static/media/clock.ce00589bac8533fd0048.png",
+    "static/media/pin.png": "/weather-App/static/media/pin.64af410c6a5f32b5fd4f.png",
+    "static/media/BrockenClouds.png": "/weather-App/static/media/BrockenClouds.b7319bbb48f7c50807c2.png",
+    "static/media/thermometre.png": "/weather-App/static/media/thermometre.1dca0b838a147127f230.png",
+    "index.html": "/weather-App/index.html",
+    "main.24ac55fb.css.map": "/weather-App/static/css/main.24ac55fb.css.map",
+    "main.587ad13b.js.map": "/weather-App/static/js/main.587ad13b.js.map",
+    "453.7179fb5b.chunk.js.map": "/weather-App/static/js/453.7179fb5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24ac55fb.css",
+    "static/js/main.587ad13b.js"
+  ]
+}
